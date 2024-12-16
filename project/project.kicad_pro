@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.39999999999999997
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -444,7 +444,6 @@
         "microvia_drill": 0.1,
         "name": "tight",
         "nets": [
-          "GND",
           "unconnected-(U101-Pad3)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -459,9 +458,13 @@
       "version": 2
     },
     "net_colors": {
-      "B_GND": "rgb(0, 255, 0)",
-      "F_GND": "rgb(0, 255, 0)",
-      "GND": "rgb(0, 255, 0)"
+      "B_24V": "rgb(255, 255, 0)",
+      "B_3V3": "rgb(221, 133, 0)",
+      "B_5V": "rgb(255, 0, 0)",
+      "F_24V": "rgb(255, 255, 0)",
+      "F_3V3": "rgb(221, 133, 0)",
+      "F_5V": "rgb(255, 0, 0)",
+      "F_GND": "rgb(132, 132, 132)"
     }
   },
   "pcbnew": {
