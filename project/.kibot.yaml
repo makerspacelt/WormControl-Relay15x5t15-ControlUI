@@ -167,6 +167,8 @@ outputs:
       subtract_mask_from_silk: true
     layers:
       - F.Cu
+      - In1.Cu
+      - In2.Cu
       - B.Cu
       - Edge.Cuts
       - F.SilkS
