@@ -3057,7 +3057,7 @@
     (property "Value" "BUS" (id 1) (at 35.56 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical" (id 2) (at 38.1 74.93 0)
+    (property "Footprint" "-local:PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical" (id 2) (at 38.1 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Ningbo-Xinlaiya-Elec--XY2500V-F-3-5-4P_C880556.pdf" (id 3) (at 38.1 74.93 0)
@@ -3080,7 +3080,7 @@
     (uuid da7504b3-69f1-4142-8ce9-4deec2331551)
     (property "Reference" "J101" (id 0) (at 20.32 66.04 0))
     (property "Value" "BUS" (id 1) (at 20.32 68.58 0))
-    (property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical" (id 2) (at 20.32 74.93 0)
+    (property "Footprint" "-local:PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical" (id 2) (at 20.32 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Ningbo-Xinlaiya-Elec--XY2500V-F-3-5-4P_C880556.pdf" (id 3) (at 20.32 74.93 0)
@@ -3746,10 +3746,10 @@
       (reference "H104") (unit 1) (value "thread") (footprint "-local:post_m3x12.5mm")
     )
     (path "/da7504b3-69f1-4142-8ce9-4deec2331551"
-      (reference "J101") (unit 1) (value "BUS") (footprint "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical")
+      (reference "J101") (unit 1) (value "BUS") (footprint "-local:PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical")
     )
     (path "/b4491cbc-9a3c-4eaa-b841-783c4b62d70b"
-      (reference "J102") (unit 1) (value "BUS") (footprint "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical")
+      (reference "J102") (unit 1) (value "BUS") (footprint "-local:PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical")
     )
     (path "/3ccb35ae-5136-4707-82f3-14ec5132a1c1"
       (reference "J103") (unit 1) (value "FFC") (footprint "-local:AFC11-S24ICC-00")
