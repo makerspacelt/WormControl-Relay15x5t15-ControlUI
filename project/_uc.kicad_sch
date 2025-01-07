@@ -2680,7 +2680,7 @@
     (property "Value" "esp32-C3FH4X" (id 1) (at 147.32 87.63 0)
       (effects (font (size 1.27 1.27) bold) (justify left))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm" (id 2) (at 171.45 68.58 0)
+    (property "Footprint" "-local:QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm" (id 2) (at 171.45 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf" (id 3) (at 171.45 68.58 0)

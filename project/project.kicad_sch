@@ -3911,7 +3911,7 @@
       (reference "U302") (unit 1) (value "MT3406") (footprint "Package_TO_SOT_SMD:TSOT-23-5")
     )
     (path "/cf6f250d-b254-4849-a279-287cc86f70b7/f505e0da-620c-4d9b-9067-8f0c214edc08"
-      (reference "U401") (unit 1) (value "esp32-C3FH4X") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm")
+      (reference "U401") (unit 1) (value "esp32-C3FH4X") (footprint "-local:QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm")
     )
     (path "/cf6f250d-b254-4849-a279-287cc86f70b7/600cf1a1-b64b-4711-90a4-85fadcab2d4a"
       (reference "U402") (unit 1) (value "XL1050") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
