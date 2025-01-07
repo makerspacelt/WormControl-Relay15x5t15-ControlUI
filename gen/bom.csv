@@ -1,5 +1,5 @@
 "Row","Description","Part","References","Value","Footprint","Quantity Per PCB","Status","Datasheet","lcsc#","jlc-part-type"
-"1","Heatsink","Heatsink","BOM101,BOM102","1x4 screw plug","","2"," ","https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Ningbo-Xinlaiya-Elec--XY2500F-F-3-5-4P_C560232.pdf","C560232","E"
+"1","Heatsink","Heatsink","BOM101,BOM102","1x4 screw plug","","2"," ","https://www.lcsc.com/datasheet/lcsc_datasheet_2309070925_DEGSON-15EDGKN-3-5-04P-14-00A-H_C7603442.pdf","C7603442","E"
 "2","Unpolarized capacitor","C","C311,C312,C411,C412","10p","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","4"," ","https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10C100JB8NNNC_C1634.pdf","C1634","B"
 "3","Unpolarized capacitor","C","C302","100p","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","1"," ","https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21C101JBANNNC_C1790.pdf","C1790","B"
 "4","Unpolarized capacitor","C","C101,C102,C202,C204,C301,C308,C403,C404,C405,C406,C407,C408,C409,C410,C413","100n","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","15"," ","https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf","C28233","B"

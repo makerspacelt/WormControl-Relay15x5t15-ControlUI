@@ -97,9 +97,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/lib/model/1x4_screw_plug.step"
-    (offset (xyz 12.25 -4.77 3.5))
+  (model "${KIPRJMOD}/lib/model/15EDGKN-3.5-04P-14-00AH.STEP"
+    (offset (xyz 12.65 -3.1 2.7))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -180))
+    (rotate (xyz -90 0 -180))
   )
 )
