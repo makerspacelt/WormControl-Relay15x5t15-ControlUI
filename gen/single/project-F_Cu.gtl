@@ -30,11 +30,11 @@ G04 #@! TD*
 G04 #@! TA.AperFunction,ComponentPad*
 %ADD16O,3.600000X1.800000*%
 G04 #@! TD*
-G04 #@! TA.AperFunction,SMDPad,CuDef*
-%ADD17C,7.000000*%
-G04 #@! TD*
 G04 #@! TA.AperFunction,ComponentPad*
-%ADD18C,5.000000*%
+%ADD17C,5.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,SMDPad,CuDef*
+%ADD18C,7.000000*%
 G04 #@! TD*
 G04 #@! TA.AperFunction,ComponentPad*
 %ADD19C,6.400000*%
@@ -8234,9 +8234,9 @@ X139712500Y-105112500I0J250000D01*
 G01*
 G37*
 G04 #@! TD.AperFunction*
-D18*
-X153262500Y-90012500D03*
 D17*
+X153262500Y-90012500D03*
+D18*
 X153262500Y-90012500D03*
 G04 #@! TA.AperFunction,SMDPad,CuDef*
 G36*
